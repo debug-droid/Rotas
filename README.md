@@ -17,6 +17,12 @@ Siga os passos abaixo
 # Install the dependencies
 $ npm install
 
+# Install the dependencies
+$ npm install express
+
+# Install the dependencies
+$ npm install body-parser
+
 # Start the project
 $ node index.js
 ```
